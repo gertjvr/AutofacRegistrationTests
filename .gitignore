@@ -1,0 +1,16 @@
+*.user
+*.suo
+[Oo]bj
+[Bb]in
+[Cc]sx
+[Rr]cf
+[Ll]ogs
+
+#resharper
+_ReSharper*/
+_ReSharper.*
+
+#ncrunch
+*.ncrunchproject
+*.ncrunchsolution
+_NCrunch*/
